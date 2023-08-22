@@ -1,0 +1,11 @@
+## Interface: 20501
+## Title: AdiBags - ClassicSets
+## Notes: Sort by Sets.
+## Author: andrew-weber
+## Version: 0.0.1
+## Dependencies: AdiBags
+
+src/filters/Core.lua
+src/data/Items.lua
+src/data/Classes.lua
+src/data/Overrides.lua
