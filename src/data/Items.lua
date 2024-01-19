@@ -46,7 +46,25 @@ data.items = {
     [22491] = {class =   1, subclass =   104},
     [22488] = {class =   1, subclass =   104},
     [22495] = {class =   1, subclass =   104},
-    [23064] = {class =   1, subclass =   104},
+    -- Lightforge 
+    [16722] = {class =   1, subclass =   400},
+    [16723] = {class =   1, subclass =   400},
+    [16724] = {class =   1, subclass =   400},
+    [16725] = {class =   1, subclass =   400},
+    [16726] = {class =   1, subclass =   400},
+    [16727] = {class =   1, subclass =   400},
+    [16728] = {class =   1, subclass =   400},
+    [16729] = {class =   1, subclass =   400},
+    -- Lawbringer
+    [16853] = {class =   1, subclass =   402},
+    [16854] = {class =   1, subclass =   402},
+    [16855] = {class =   1, subclass =   402},
+    [16856] = {class =   1, subclass =   402},
+    [16857] = {class =   1, subclass =   402},
+    [16858] = {class =   1, subclass =   402},
+    [16859] = {class =   1, subclass =   402},
+    [16860] = {class =   1, subclass =   402},
+    
     -- Devout 
     [16690] = {class =   1, subclass =   500},
     [16691] = {class =   1, subclass =   500},
@@ -109,4 +127,12 @@ data.items = {
     [21410] = {class =   1, subclass =   507},
     [21411] = {class =   1, subclass =   507},
     [21412] = {class =   1, subclass =   507},
+
+    -- ZG
+    -- Primalist's
+    [19920] = {class =   1, subclass =   1000},
+    [19863] = {class =   1, subclass =   1000},
+    -- Zanzil's
+    [19893] = {class =   1, subclass =   1001},
+    [19905] = {class =   1, subclass =   1001},
 }

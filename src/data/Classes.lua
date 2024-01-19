@@ -15,7 +15,9 @@ data.classes = {
             -- Mage
             -- [300] = ""
             -- Paladin
-            -- [400] = ""
+            [400] = "Lightforge",
+            [402] = "Lawbringer",
+            
             -- Priests
             [500] = "Devout",
             [501] = "Virtuous",
@@ -31,6 +33,9 @@ data.classes = {
             -- [700] = ""
             -- Warrior
             -- [800] = ""
+            -- ZG
+            [1000] = "Primalist's",
+            [1001] = "Zanzil's"
         },
     },
 }
